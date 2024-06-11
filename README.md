@@ -1,6 +1,6 @@
 <h1 align="center"> Tuned Kernel Service </h1>
 
-<img align="left" width=240 src="misc/assets/tks-logo.png">
+<img align="right" width=240 src="misc/assets/tks-logo.png">
 
 > Tune your Kernel now!
 
